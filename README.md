@@ -7,4 +7,4 @@ This helps to better understand the simulations and to adjust the parameters as 
 
 
 # GUI
-![github](icons/github.tif)
+![GitHub2]([icons/github.png](https://github.com/LAHCEN-EL-AMRI/SGMDA_v1/blob/main/icons/GitHub2.png))
