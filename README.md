@@ -7,4 +7,48 @@ This helps to better understand the simulations and to adjust the parameters as 
 
 
 # GUI
-![GitHub2]([icons/github.png](https://github.com/LAHCEN-EL-AMRI/SGMDA_v1/blob/main/icons/GitHub2.png))
+![GitHub2](icons/GitHub2.png)
+
+
+#  window dedicated to the radioactive source parameter
+
+![Source](icons/Source.png)
+
+#  Window dedicated to Geiger Müller detector parameters
+
+![Detector](icons/Detector.png)
+
+#  Window dedicated to gamma ray absorption plates
+
+![Plates](icons/Plates.png)
+
+
+# Prerequisites
+A [manual](https://github.com/LAHCEN-EL-AMRI/SGMDA_v1/blob/main/doc/SGMDA%20Software%20Guide.pdf) existed in the Doc folder explains in detail all the options of the graphical interface.
+
+
+# Installion
+
+
+- Without installation: click directly on SGMDA.exe
+
+
+# Dependencies:
+
+This project requis the following dependencies :
+
+- [java language version 21.0.4](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
+- [JFreeChart library](https://www.jfree.org/jfreechart/)
+- javafx-sdk-21.0.2
+
+
+# Versions
+- 1.0
+
+# Authors
+* **LAHCEN EL AMRI** *lahssenelamri@gmail.com*  *doctor* *Team of reactor physics, energy and nuclear safety, Faculty of Sciences, Mohammed V University of Rabat, Morocco
+* **OMAR EL BOUNAGUI** *o.elbounagui@um5r.ac.ma* * professor* * LaMCSCI, Faculty of Sciences, Mohammed V University of Rabat, Morocco
+* **HAMID AMSIL** *  amsil@cnesten.org.ma*  *expert doctor* * Nuclear Centre of Energy, Science and Nuclear Techniques, Morocco
+
+# LICENSE
+
