@@ -51,4 +51,4 @@ This project requis the following dependencies :
 * **HAMID AMSIL** *  amsil@cnesten.org.ma*  *expert doctor* * Nuclear Centre of Energy, Science and Nuclear Techniques, Morocco
 
 # LICENSE
-- This project is licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) [License](https://github.com/LAHCEN-EL-AMRI/SGMDA_v1/blob/main/LICENSE)see the LICENSE.md file for more information)
+- This project is licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) see the [License](https://github.com/LAHCEN-EL-AMRI/SGMDA_v1/blob/main/LICENSE)   file for more information)
