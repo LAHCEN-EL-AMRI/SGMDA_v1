@@ -8,7 +8,7 @@
   <cmdLine></cmdLine>
   <chdir>.</chdir>
   <priority>normal</priority>
-  <downloadUrl>https://www.oracle.com/java/technologies/javase/21-0-4-relnotes.html</downloadUrl>
+  <downloadUrl></downloadUrl>
   <supportUrl></supportUrl>
   <stayAlive>false</stayAlive>
   <restartOnCrash>false</restartOnCrash>
@@ -16,10 +16,15 @@
   <icon>C:\Users\J.P.M\Desktop\SGMDA_v1_Software\icons\image.ico</icon>
   <jre>
     <path>%JAVA_HOME%;%PATH%</path>
-    <requiresJdk>false</requiresJdk>
+    <requiresJdk>true</requiresJdk>
     <requires64Bit>false</requires64Bit>
-    <minVersion>21.0.4</minVersion>
+    <minVersion>21.0.2</minVersion>
     <maxVersion></maxVersion>
-    <opt>--module-path &quot;libs\javafx-sdk-21.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.swing --add-exports javafx.graphics/com.sun.javafx.embed=ALL-UNNAMED --add-exports javafx.graphics/com.sun.javafx.scene=ALL-UNNAMED --add-exports javafx.graphics/com.sun.javafx.stage=ALL-UNNAMED --add-exports javafx.base/com.sun.javafx.logging=ALL-UNNAMED</opt>
+    <opt>--module-path &quot;libs/javafx-sdk-21.0.2/lib&quot;</opt>
+    <opt>--add-modules javafx.controls,javafx.fxml,javafx.swing</opt>
+    <opt>--add-exports javafx.graphics/com.sun.javafx.embed=ALL-UNNAMED</opt>
+    <opt>--add-exports javafx.graphics/com.sun.javafx.scene=ALL-UNNAMED</opt>
+    <opt>--add-exports javafx.graphics/com.sun.javafx.stage=ALL-UNNAMED</opt>
+    <opt>--add-exports javafx.base/com.sun.javafx.logging=ALL-UNNAMED</opt>
   </jre>
 </launch4jConfig>
