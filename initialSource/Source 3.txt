@@ -9,5 +9,5 @@ y
 CE
 25000
 Point source
-Isotropique
-4
+Isotropic
+6

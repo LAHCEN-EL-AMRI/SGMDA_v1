@@ -6,8 +6,8 @@ Source 1
 99.98
 5.27
 y
-Béta
+Beta
 13058
 Point source
-Isotropique
-3
+Isotropic
+4

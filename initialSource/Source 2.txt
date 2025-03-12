@@ -9,5 +9,5 @@ y
 Béta
 7700
 Point source
-Isotropique
-2
+Isotropic
+3
